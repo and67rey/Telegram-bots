@@ -91,7 +91,7 @@ TOKEN=your-telegram-bot-token
 ````
 2. Install required dependencies:
 ```bash
-pip install pyTelegramBotAPI python-dotenv
+pip install telebot python-dotenv
 ````
 
 3. Run the bot:
@@ -129,7 +129,7 @@ TOKEN=your-telegram-bot-token
 ````
 2. Install required dependencies:
 ```bash
-pip install pyTelegramBotAPI python-dotenv
+pip install telebot python-dotenv
 ````
 
 3. Run the bot:
