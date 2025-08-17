@@ -28,7 +28,7 @@ This Telegram bot provides inspiring quotes to help users start their day with m
 3. Run the bot:
 
    ```bash
-   python bot.py
+   python inspire_me_bot.py
    ```
 You can try this bot here https://t.me/NiceQuoteBot
 
@@ -60,7 +60,7 @@ pip install aiogram aiohttp python-dotenv
 3. Run the bot:
 
    ```bash
-   python bot.py
+   python weather_bot.py
    ```
 You can try this bot here https://t.me/what_wheather_bot
 
@@ -97,7 +97,7 @@ pip install telebot python-dotenv
 3. Run the bot:
 
    ```bash
-   python bot.py
+   python tic_tac_toe_bot.py
    ```
 
 You can try this bot here https://t.me/play_T3_bot
@@ -135,7 +135,7 @@ pip install telebot python-dotenv
 3. Run the bot:
 
    ```bash
-   python bot.py
+   python reversi_bot.py
    ```
 You can try this bot here https://t.me/PlayReversiBot
 
